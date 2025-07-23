@@ -1,8 +1,6 @@
 # 📚 Omnibook - A Multilingual Book Management System
 
-A modern book management system with multi-language support, built with React and Tailwind CSS. 
-
-Manage your book collection with support for multiple languages and an intuitive user interface.
+Omnibook is a modern, user-friendly book management system with multi-language support. Effortlessly organize your book collection with an intuitive and accessible interface built for global users.
 
 ---
 
