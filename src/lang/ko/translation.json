@@ -1,0 +1,111 @@
+{
+  "app": {
+    "title": "옴니북"
+  },
+  "navigation": {
+    "home": "홈",
+    "books": "도서",
+    "addBook": "도서 추가",
+    "about": "정보"
+  },
+  "buttons": {
+    "add": "추가",
+    "edit": "편집",
+    "delete": "삭제",
+    "save": "저장",
+    "cancel": "취소",
+    "search": "검색",
+    "clear": "지우기",
+    "submit": "제출",
+    "back": "뒤로",
+    "next": "다음",
+    "previous": "이전",
+    "close": "닫기",
+    "export": "내보내기"
+  },
+  "books": {
+    "title": "도서",
+    "noBooks": "도서를 찾을 수 없습니다",
+    "addNew": "새 도서 추가",
+    "totalBooks": "총 도서 수",
+    "searchPlaceholder": "제목, 저자 또는 장르로 도서 검색...",
+    "details": "도서 상세",
+    "list": "도서 목록"
+  },
+  "bookForm": {
+    "title": "도서 제목",
+    "author": "저자",
+    "isbn": "ISBN",
+    "genre": "장르",
+    "publishedDate": "출판일",
+    "pages": "페이지 수",
+    "description": "설명",
+    "language": "언어",
+    "publisher": "출판사",
+    "addTitle": "새 도서 추가",
+    "editTitle": "도서 편집"
+  },
+  "genres": {
+    "fiction": "소설",
+    "nonFiction": "논픽션",
+    "mystery": "미스터리",
+    "romance": "로맨스",
+    "scienceFiction": "공상과학",
+    "fantasy": "판타지",
+    "biography": "전기",
+    "history": "역사",
+    "selfHelp": "자기계발",
+    "technology": "기술",
+    "philosophy": "철학"
+  },
+  "validation": {
+    "required": "이 필드는 필수입니다",
+    "minLength": "최소 {{count}}자 필요",
+    "maxLength": "최대 {{count}}자 허용",
+    "invalidFormat": "잘못된 형식",
+    "invalidISBN": "잘못된 ISBN 형식"
+  },
+  "messages": {
+    "bookAdded": "도서가 성공적으로 추가되었습니다!",
+    "bookUpdated": "도서가 성공적으로 업데이트되었습니다!",
+    "bookDeleted": "도서가 성공적으로 삭제되었습니다!",
+    "error": "오류가 발생했습니다",
+    "loading": "로딩 중...",
+    "confirmDelete": "정말로 이 도서를 삭제하시겠습니까?"
+  },
+  "language": {
+    "selector": "언어",
+    "english": "🇺🇸 영어",
+    "spanish": "🇪🇸 스페인어",
+    "japanese": "🇯🇵 일본어",
+    "hindi": "🇮🇳 힌디어",
+    "korean": "🇰🇷 한국어"
+  },
+  "stats": {
+    "totalBooks": "{{count}}권",
+    "totalBooks_plural": "{{count}}권",
+    "totalPages": "{{count}}페이지",
+    "totalPages_plural": "{{count}}페이지",
+    "averagePages": "도서당 평균 페이지",
+    "mostPopularGenre": "가장 인기 있는 장르"
+  },
+  "filters": {
+    "all": "전체",
+    "byGenre": "장르별 필터",
+    "byLanguage": "언어별 필터",
+    "sortBy": "정렬 기준",
+    "sortOptions": {
+      "title": "제목",
+      "author": "저자",
+      "publishedDate": "출판일",
+      "pages": "페이지"
+    }
+  },
+  "footer": {
+    "description": "독서 여행을 발견하고, 정리하고, 즐기세요.",
+    "rights": "모든 권리 보유.",
+    "privacy": "개인정보",
+    "terms": "약관",
+    "contact": "연락처"
+  }
+}

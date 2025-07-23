@@ -1,0 +1,111 @@
+{
+  "app": {
+    "title": "Omnilibro"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "books": "Libros",
+    "addBook": "Agregar Libro",
+    "about": "Acerca de"
+  },
+  "buttons": {
+    "add": "Agregar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "clear": "Limpiar",
+    "submit": "Enviar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar",
+    "export": "Exportar"
+  },
+  "books": {
+    "title": "Libros",
+    "noBooks": "No se encontraron libros",
+    "addNew": "Agregar Nuevo Libro",
+    "totalBooks": "Total de Libros",
+    "searchPlaceholder": "Buscar libros por título, autor o género...",
+    "details": "Detalles del Libro",
+    "list": "Lista de Libros"
+  },
+  "bookForm": {
+    "title": "Título del Libro",
+    "author": "Autor",
+    "isbn": "ISBN",
+    "genre": "Género",
+    "publishedDate": "Fecha de Publicación",
+    "pages": "Número de Páginas",
+    "description": "Descripción",
+    "language": "Idioma",
+    "publisher": "Editorial",
+    "addTitle": "Agregar Nuevo Libro",
+    "editTitle": "Editar Libro"
+  },
+  "genres": {
+    "fiction": "Ficción",
+    "nonFiction": "No Ficción",
+    "mystery": "Misterio",
+    "romance": "Romance",
+    "scienceFiction": "Ciencia Ficción",
+    "fantasy": "Fantasía",
+    "biography": "Biografía",
+    "history": "Historia",
+    "selfHelp": "Autoayuda",
+    "technology": "Tecnología",
+    "philosophy": "Filosofía"
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "minLength": "Se requieren mínimo {{count}} caracteres",
+    "maxLength": "Máximo {{count}} caracteres permitidos",
+    "invalidFormat": "Formato inválido",
+    "invalidISBN": "Formato de ISBN inválido"
+  },
+  "messages": {
+    "bookAdded": "¡Libro agregado exitosamente!",
+    "bookUpdated": "¡Libro actualizado exitosamente!",
+    "bookDeleted": "¡Libro eliminado exitosamente!",
+    "error": "Ocurrió un error",
+    "loading": "Cargando...",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar este libro?"
+  },
+  "language": {
+    "selector": "Idioma",
+    "english": "🇺🇸 Inglés",
+    "spanish": "🇪🇸 Español",
+    "japanese": "🇯🇵 Japonés",
+    "hindi": "🇮🇳 Hindi",
+    "korean": "🇰🇷 Coreano"
+  },
+  "stats": {
+    "totalBooks": "{{count}} libro",
+    "totalBooks_plural": "{{count}} libros",
+    "totalPages": "{{count}} página",
+    "totalPages_plural": "{{count}} páginas",
+    "averagePages": "Promedio de páginas por libro",
+    "mostPopularGenre": "Género más popular"
+  },
+  "filters": {
+    "all": "Todos",
+    "byGenre": "Filtrar por Género",
+    "byLanguage": "Filtrar por Idioma",
+    "sortBy": "Ordenar por",
+    "sortOptions": {
+      "title": "Título",
+      "author": "Autor",
+      "publishedDate": "Fecha de Publicación",
+      "pages": "Páginas"
+    }
+  },
+  "footer": {
+    "description": "Descubre, organiza y disfruta tu viaje de lectura.",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "contact": "Contacto"
+  }
+}

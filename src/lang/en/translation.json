@@ -1,0 +1,112 @@
+{
+  "app": {
+    "title": "Omnibook"
+  },
+  "navigation": {
+    "home": "Home",
+    "books": "Books",
+    "addBook": "Add Book",
+    "about": "About"
+  },
+  "buttons": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "clear": "Clear",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "export": "Export"
+  },
+  "books": {
+    "title": "Books",
+    "noBooks": "No books found",
+    "addNew": "Add New Book",
+    "totalBooks": "Total Books",
+    "searchPlaceholder": "Search books by title, author, or genre...",
+    "details": "Book Details",
+    "list": "Book List"
+  },
+  "bookForm": {
+    "title": "Book Title",
+    "author": "Author",
+    "isbn": "ISBN",
+    "genre": "Genre",
+    "publishedDate": "Published Date",
+    "pages": "Number of Pages",
+    "description": "Description",
+    "language": "Language",
+    "publisher": "Publisher",
+    "addTitle": "Add New Book",
+    "editTitle": "Edit Book"
+  },
+  "genres": {
+    "fiction": "Fiction",
+    "nonFiction": "Non-Fiction",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "scienceFiction": "Science Fiction",
+    "fantasy": "Fantasy",
+    "biography": "Biography",
+    "history": "History",
+    "selfHelp": "Self Help",
+    "technology": "Technology",
+    "philosophy": "Philosophy"
+  },
+  "validation": {
+    "required": "This field is required",
+    "minLength": "Minimum {{count}} characters required",
+    "maxLength": "Maximum {{count}} characters allowed",
+    "invalidFormat": "Invalid format",
+    "invalidISBN": "Invalid ISBN format"
+  },
+  "messages": {
+    "bookAdded": "Book added successfully!",
+    "bookUpdated": "Book updated successfully!",
+    "bookDeleted": "Book deleted successfully!",
+    "error": "An error occurred",
+    "loading": "Loading...",
+    "confirmDelete": "Are you sure you want to delete this book?"
+  },
+  "language": {
+    "selector": "Language",
+    "english": "🇺🇸 English",
+    "spanish": "🇪🇸 Spanish",
+    "japanese": "🇯🇵 Japanese",
+    "hindi": "🇮🇳 Hindi",
+    "korean": "🇰🇷 Korean"
+  },
+  "stats": {
+    "totalBooks": "{{count}} book",
+    "totalBooks_plural": "{{count}} books",
+    "totalPages": "{{count}} page",
+    "totalPages_plural": "{{count}} pages",
+    "averagePages": "Average pages per book",
+    "mostPopularGenre": "Most popular genre"
+  },
+  "filters": {
+    "all": "All",
+    "byGenre": "Filter by Genre",
+    "byLanguage": "Filter by Language",
+    "sortBy": "Sort by",
+    "filters": "Filters",
+    "sortOptions": {
+      "title": "Title",
+      "author": "Author",
+      "publishedDate": "Published Date",
+      "pages": "Pages"
+    }
+  },
+  "footer": {
+    "description": "Discover, organize, and enjoy your reading journey.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  }
+}
