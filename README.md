@@ -1,17 +1,17 @@
-# Task 15: React Development - Multilingual Book Management System
+# Task 15: React Development - Multi-language Support for Book Management Application
 
 **Student Name:** Advithi Alva  
 **University:** Sahyadri College of Engineering and Management (SCEM)  
 **Task Type:** React Development  
 **Task Number:** 15  
-**Submission Date:** July 25, 2025    
+**Submission Date:** July 29, 2025    
 
 ---
 ## Project Overview
 
 **Project Name:** Omnibook - Multilingual Book Management Application
 
-### Description:  
+**Description:**  
 A comprehensive full stack book management application that allows users to manage their book collections with support for multiple languages. The application provides an minimalistic interface for adding, editing, searching, and organizing books with real-time statistics and responsive design.
 
 ---
@@ -22,10 +22,10 @@ A comprehensive full stack book management application that allows users to mana
 - **Multilingual Support**: Available in 5 languages (English, Spanish, Hindi, Japanese, Korean)
 - **Smart Search**: Search by title, author, genre, or description
 - **Genre Filtering**: Filter books by genre categories
-- **📊 Statistics Dashboard**: View collection statistics and insights
-- **📱 Responsive Design**: Works seamlessly on desktop and mobile devices
-- **🎨 Modern UI**: Clean, professional interface with Tailwind CSS
-- **🔄 Real-time Updates**: Instant feedback with toast notifications
+- **Statistics Dashboard**: View collection statistics and insights
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Modern UI**: Clean, professional interface with Tailwind CSS
+- **Real-time Updates**: Instant feedback with toast notifications
 
 ---
 ###  Tech Stack
