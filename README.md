@@ -85,23 +85,23 @@ fr: { translation: require('./lang/fr/translation.json') }
 ---
 ## 5. Installation Steps
 
-1. **Extract the ZIP File**  
-   Unzip the submitted folder (`AdvithiAlva_SCEM_React_15.zip`) to your desired location.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/advithialva/omnibook.git
+   cd omnibook
+   ```
 
-2. **Open the Project Folder**  
-   Open the extracted folder in your code editor or terminal.
-
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-4. **Start the development server**
+3. **Start the development server**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application
 
 ---
